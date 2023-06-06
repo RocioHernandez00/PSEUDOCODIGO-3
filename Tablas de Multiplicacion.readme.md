@@ -1,5 +1,5 @@
 ### Tablas de multiplicacion 
-Algoritmo TablasDeMultiplicacion
+``` psc Algoritmo TablasDeMultiplicacion
 	numeroUsuario = 0
 	Imprimir "Ingrese un numero"
 	leer numeroUsuario
