@@ -1,5 +1,5 @@
 ### Calculadora Simple Switch
-* Algoritmo CalculadoraSimpleswitch
+``` pcs Algoritmo CalculadoraSimpleswitch
 	Imprimir 'Ingrese primer numero'
 	Leer n1
 	Imprimir 'Ingrese segundo numero'
