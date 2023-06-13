@@ -1,6 +1,6 @@
 ### Calculadora simple 
 
-* Algoritmo CalculadoraSimple
+``` pcs Algoritmo CalculadoraSimple
 	Imprimir "Calculadora Simple"
 	Escribir "¿Que operacion deseas realizar? (Suma,Resta,Multiplicacion, Divisio) "
 	leer operacion 
