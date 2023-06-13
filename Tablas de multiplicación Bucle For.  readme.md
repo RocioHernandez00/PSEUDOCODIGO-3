@@ -1,6 +1,6 @@
 ### Tablas de Multiplicacion con Bucle For
 
-Algoritmo TablasdeMultiplicacionBucleFor
+``` psc Algoritmo TablasdeMultiplicacionBucleFor
 	Imprimir "///Tablas de Multiplicacion///"
 	Imprimir "Ingrese la tabla a calcular"
 	leer Tabla
