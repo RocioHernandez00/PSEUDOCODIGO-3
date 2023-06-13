@@ -1,4 +1,5 @@
 ### Calculadora Simple Switch
+
 ``` pcs Algoritmo CalculadoraSimpleswitch
 	Imprimir 'Ingrese primer numero'
 	Leer n1
