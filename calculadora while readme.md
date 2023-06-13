@@ -1,10 +1,13 @@
-Algoritmo CalculadoraSimpleWhile
+### calculadora Simple While
+
+'''Algoritmo CalculadoraSimpleWhile
 	Imprimir "Calculadora Simple"
+	Repetir
 	Imprimir "ingrese primer numero"
 	leer primerNumero
 	Imprimir "ingrese segundo numero"
 	leer segundoNumero
-	Imprimir "ingrese una operacio: +,-,*,/' 
+	Imprimir "ingrese una operacion: +,-,*,/' 
 	leer op
 	Si op == '+' | op == '-' | op == '*' | op == '/' Entonces
 		
@@ -20,8 +23,6 @@ Algoritmo CalculadoraSimpleWhile
 	SiNo
 		Imprimir ' la operacion no es valida'
 	FinSi
-	
-	Imprimir 'Desea continuar con otra operacion? si/no'
+	Imprimir 'Deseas continuar con otra operacion ? Si / No'
 	Leer continuar
 Hasta Que continuar == 'No' | continuar == 'no'
-FinAlgoritmo
