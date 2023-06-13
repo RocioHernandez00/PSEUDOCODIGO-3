@@ -1,6 +1,6 @@
 ### Numero Especial 
 
-* Algoritmo NumeroSpecial
+``` psc Algoritmo NumeroSpecial
 	Leer n
 	si n == 100 Entonces
 		Imprimir 'Este es un numero especial'
