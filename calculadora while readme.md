@@ -1,6 +1,6 @@
 ### calculadora Simple While
 
-´´´ psc Algoritmo CalculadoraSimpleWhile
+ `` psc Algoritmo CalculadoraSimpleWhile
 	Imprimir "Calculadora Simple"
 	Repetir
 	Imprimir "ingrese primer numero"
@@ -27,4 +27,4 @@
 	Leer continuar
 Hasta Que continuar == 'No' | continuar == 'no'
 
-FinalAlgoritmo ´´´
+FinalAlgoritmo 
