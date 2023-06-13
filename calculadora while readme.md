@@ -1,6 +1,6 @@
 ### calculadora Simple While
 
-'''Algoritmo CalculadoraSimpleWhile
+''' pcs Algoritmo CalculadoraSimpleWhile
 	Imprimir "Calculadora Simple"
 	Repetir
 	Imprimir "ingrese primer numero"
