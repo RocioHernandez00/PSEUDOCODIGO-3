@@ -1,5 +1,6 @@
 ### Opciones/Multiples
-* Algoritmo OpcionesMultiples 
+
+``` pcs Algoritmo OpcionesMultiples 
 	Imprimir "opcion 1. Suma de dos numeros"
 	Imprimir "opcion 2. Dia de la semana"
 	imprimir "opcion 3. Longitud de un texto"
