@@ -1,7 +1,7 @@
 ### Numeros Ascendentes y Descendentes 
 
  
-Algoritmo NumerosAscendentesyDescendentes
+``` psc Algoritmo NumerosAscendentesyDescendentes
 	Imprimir "Numeros Ascendentes y Descendentes" 
 	Imprimir "ingrese un numero"
 	leer numero
