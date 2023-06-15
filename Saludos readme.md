@@ -1,5 +1,6 @@
 ### saludos 
-Algoritmo saludos
+
+``` psc Algoritmo saludos
 	imprimir "====saludos===="
 	definir continuar Como Caracter
 	continuar = "si"
