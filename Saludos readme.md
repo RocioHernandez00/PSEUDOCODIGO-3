@@ -1,24 +1,27 @@
 ### saludos 
 
 ``` psc Algoritmo saludos
-	imprimir "====saludos===="
-	definir continuar Como Caracter
+	Imprimir "///SALUDOS///"
+	Definir continuar Como Caracter
 	continuar = "si"
 	Mientras continuar = "si" Hacer
-		Imprimir "ingrese la hora actual (0-23)"
+		Imprimir "ingrese la hora actual (0-23):"
 		leer hora
 		si hora <= 12 Entonces
-			Imprimir "buenos dias"
+			Imprimir " buenos dias"
 		SiNo
 			si hora <= 18 Entonces
-				imprimir "buenas tardes"
+				Imprimir "buenas tardes"
 			SiNo
 				Imprimir "buenas noches"
 			FinSi
 		FinSi
-		Imprimir "desea continuar si/no"
+		Imprimir " desea continuar? si/no"
 		leer continuar
+	
 	FinMientras
+	
+FinAlgoritmo
 	
 			
 	
